@@ -11,19 +11,7 @@ export default function sidebar() {
               <div className="resume-skill-item">
                 <h4 className="resume-skills-cat font-weight-bold">Frontend</h4>
                 <ul className="list-unstyled mb-4">
-                  <li className="mb-2">
-                    <div className="resume-skill-name">Angular</div>
-                    <div className="progress resume-progress">
-                      <div
-                        className="progress-bar theme-progress-bar-dark"
-                        role="progressbar"
-                        style={{"width": "98%"}}
-                        aria-valuenow="25"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                      />
-                    </div>
-                  </li>
+                
                   <li className="mb-2">
                     <div className="resume-skill-name">React</div>
                     <div className="progress resume-progress">
